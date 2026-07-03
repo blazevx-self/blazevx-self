@@ -6,11 +6,11 @@ ___
 ### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=databricks&logoColor=00C853)
 ![Aiogram](https://img.shields.io/badge/Aiogram-0d1117?style=for-the-badge&logo=telegram)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 
 ![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=databricks&logoColor=00C853)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
@@ -18,7 +18,8 @@ ___
 
 ___
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=graywhite)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark)
+
 ___
 
 ### 📫 Connect with me
