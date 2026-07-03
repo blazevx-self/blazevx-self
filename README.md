@@ -7,7 +7,7 @@
 ***I work with APIs, databases, async architecture and enjoy building scalable and structured applications.***
 
 ___
-💻 My Profile 
+### 💻 My Profile 
 ```python
 class Developer:
     def __init__(self):
