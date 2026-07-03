@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/blazevx-self/blazevx-self/blob/main/assets/blaze.png)]()
 
 About me
 
