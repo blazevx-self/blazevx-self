@@ -1,4 +1,4 @@
-![Header](https://github.com/blazevx-self/blazevx-self/blob/main/assets/blaze.png)](https://t.me/+H67pSJL-qYU5Y2Qy)
+[![Header](https://github.com/blazevx-self/blazevx-self/blob/main/assets/blaze.png)](https://t.me/+H67pSJL-qYU5Y2Qy)
 
 ### ℹ️ About me:
 
