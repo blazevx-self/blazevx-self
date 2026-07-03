@@ -3,7 +3,7 @@
 ## I'm a junior backend developer
 ___
 
-### Languages and Tools
+### 🛠 Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
 ![Aiogram](https://img.shields.io/badge/Aiogram-0d1117?style=for-the-badge&logo=telegram)
@@ -18,8 +18,7 @@ ___
 
 ___
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blazevx-self&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=blazevx-self&rank_icon=github&show_icons=true&include_all_commits=true&theme=graywhite)
 ___
 
 ### 📫 Connect with me
