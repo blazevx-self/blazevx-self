@@ -5,7 +5,31 @@
 ***I'm a junior backend developer from Russia, focused on building backend systems with Python.***
 
 ***I work with APIs, databases, async architecture and enjoy building scalable and structured applications.***
+
+___
+💻 My Profile 
+```
+class Developer:
+    def __init__(self):
+        self.name = "BlaZe Official"
+        self.role = "Backend Developer"
+        self.stack = [
+            'Python', 'PostgreSQL', 'Aiogram',
+            'Redis', 'Docker', 'Git',
+            'SQLAlchemy', 'Pydantic', 'Linux'
+        ]
+        self.principles = [
+            'Clean architecture',
+            'Async-firs thinking',
+            'Scalability over shortcuts'
+        ]
+        
+    def goal(self):
+        return "Build scalable systems and grow into Middle Developer"
+    
+```
 ___ 
+
 ### 🗂 Projects:
 - Private repository (non-public due to ongoing development)
 ___
