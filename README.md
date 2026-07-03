@@ -8,25 +8,27 @@
 
 ___
 💻 My Profile 
-```
+```python
 class Developer:
     def __init__(self):
-        self.name = "BlaZe Official"
-        self.role = "Backend Developer"
-        self.stack = [
+        self.name: str = "BlaZe Official"
+        self.role: str = "Backend Developer"
+        self.stack: list = [
             'Python', 'PostgreSQL', 'Aiogram',
             'Redis', 'Docker', 'Git',
             'SQLAlchemy', 'Pydantic', 'Linux'
         ]
-        self.principles = [
+        self.principles: list = [
             'Clean architecture',
             'Async-firs thinking',
             'Scalability over shortcuts'
         ]
-        
-    def goal(self):
+    
+    @staticmethod
+    def goal() -> str:
         return "Build scalable systems and grow into Middle Developer"
     
+me = Developer()
 ```
 ___ 
 
