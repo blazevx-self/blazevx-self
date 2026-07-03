@@ -14,10 +14,13 @@ class Developer:
         self.name: str = "BlaZe Official"
         self.role: str = "Backend Developer"
         self.stack: list = [
-            'Python', 'PostgreSQL', 'Aiogram', 'Git', 'SQLAlchemy', 'Pydantic'
+            'Python', 'PostgreSQL', 'Aiogram',
+'Git', 'SQLAlchemy', 'Pydantic'
 ]
         self.learning: list = [
-    'Redis', 'Docker', 'Linux'
+    'Redis',
+'Docker',
+'Linux'
         ]
         self.principles: list = [
             'Clean architecture',
