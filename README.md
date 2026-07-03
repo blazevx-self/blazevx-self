@@ -15,12 +15,12 @@ class Developer:
         self.role: str = "Backend Developer"
         self.stack: list = [
             'Python', 'PostgreSQL', 'Aiogram',
-'Git', 'SQLAlchemy', 'Pydantic'
-]
+            'Git', 'SQLAlchemy', 'Pydantic'
+        ]
         self.learning: list = [
-    'Redis',
-'Docker',
-'Linux'
+            'Redis',
+            'Docker',
+            'Linux'
         ]
         self.principles: list = [
             'Clean architecture',
