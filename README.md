@@ -2,36 +2,35 @@
 
 ### ℹ️ About me:
 
-***I'm a junior backend developer from Russia, focused on building backend systems with Python.***
-
-***I work with APIs, databases, async architecture and enjoy building scalable and structured applications.***
+***I'm a Backend Developer from Russia focused on building asynchronous backend applications with Python. I enjoy designing clean architectures, working with databases, and creating scalable systems.***
 
 ___
 ### 💻 My Profile 
 ```python
 class Developer:
     def __init__(self):
-        self.name: str = "BlaZe Official"
-        self.role: str = "Backend Developer"
-        self.stack: list = [
-            'Python', 'PostgreSQL', 'Aiogram',
-            'Git', 'SQLAlchemy', 'Pydantic'
-        ]
-        self.learning: list = [
-            'Redis',
-            'Docker',
-            'Linux'
-        ]
-        self.principles: list = [
-            'Clean architecture',
-            'Async-first thinking',
-            'Scalability over shortcuts'
-        ]
-    
+        self.name = "BlaZe Official"
+        self.role = "Backend Developer"
+
+        self.likes = (
+            "Clean Architecture",
+            "Async Programming",
+            "Performance",
+        )
+
+        self.currently_learning = (
+            "Redis",
+            "Docker",
+            "Linux",
+        )
+
     @staticmethod
-    def goal() -> str:
-        return "Build scalable systems and grow into Middle Developer"
-    
+    def goal():
+        return (
+            "Keep improving every day, become a strong "
+            "Middle Backend Developer and build scalable products."
+        )
+
 me = Developer()
 ```
 ___ 
@@ -69,8 +68,8 @@ ___
 ___
 ### ⚙️ Engineering mindset
 
-***I focus on clean architecture, modular backend design, and building maintainable systems rather than simple scripts.***
-
+***I enjoy designing modular backend architectures, writing maintainable code, and solving engineering problems with scalability in mind.
+***
 ___
 
 ### 📊 My statistics on GitHub
@@ -80,11 +79,7 @@ ___
 
 ### 🎯 Goal
 
-***My goal is to become a Middle Backend Developer, build scalable applications, and develop projects independently.***
-
-***I aim to grow in backend engineering, system design, and eventually create my own startups and production-level products.***
-
-***I am focused on continuous learning and improving my software development skills to achieve strong results in the IT field.***
+***My goal is to become a Middle Backend Developer, deepen my knowledge of backend engineering and system design, and build reliable production-level applications.***
 
 ___
 
