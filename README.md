@@ -36,7 +36,11 @@ me = Developer()
 ___ 
 
 ### 🗂 Projects:
-- Private repository (non-public due to ongoing development)
+- **Private repository** (non-public due to ongoing development)
+
+***Production-oriented Telegram application built with Python and asynchronous code.***
+
+***The project focuses on clean architecture, scalability, modular structure, database optimization, and long-term maintainability.***
 ___
 
 ### 🛠 Languages and Tools
@@ -68,8 +72,7 @@ ___
 ___
 ### ⚙️ Engineering mindset
 
-***I enjoy designing modular backend architectures, writing maintainable code, and solving engineering problems with scalability in mind.
-***
+***I enjoy designing modular backend architectures, writing maintainable code, and solving engineering problems with scalability in mind.***
 ___
 
 ### 📊 My statistics on GitHub
