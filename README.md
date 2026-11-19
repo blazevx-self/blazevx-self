@@ -43,6 +43,45 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<h2 align="center"><code>{&nbsp;&nbsp;profile&nbsp;&nbsp;}</code></h2>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "BlaZe Self"
+        self.role = "Python Backend Developer"
+        self.location = "Russia"
+
+        self.stack = (
+            "Python", "aiogram", "SQLAlchemy",
+            "PostgreSQL", "Docker", "Linux", "Git",
+        )
+
+        self.likes = (
+            "Clean Architecture",
+            "Async Programming",
+            "Shipping to production",
+        )
+
+        self.currently_learning = (
+            "FastAPI",
+            "Redis",
+            "TypeScript",
+        )
+
+    @staticmethod
+    def goal() -> str:
+        return (
+            "Keep improving every day, become a strong "
+            "middle backend developer and build "
+            "reliable production-grade products."
+        )
+
+me = Developer()
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <h2 align="center"><code>{&nbsp;&nbsp;stack&nbsp;&nbsp;}</code></h2>
 
 <div align="center">
@@ -146,10 +185,6 @@ A practice-first project: built to gain hands-on experience with external APIs a
 > - 📦 **Typed results over dicts** — every service returns a dataclass with a status
 > - 🔁 **Migrations over manual SQL** — every schema change is versioned
 > - 🐢 **Slow and honest over fast and messy** — a rough working version today teaches more than a perfect plan tomorrow
-
-<p align="center">
-  <img src="assets/code.svg" width="92%" alt="typed results in practice" />
-</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
