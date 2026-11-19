@@ -20,12 +20,12 @@
 <h2 align="center"><code>{&nbsp;&nbsp;about&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <b>👋 Hello! I'm BlaZe Self</b> — <i>Python backend developer from Russia.<br/>I build backend services — Telegram bots among them — and ship them to production.</i>
+  <b>👋 Hello! I'm BlaZe Self</b> — <i>a Python backend developer from Russia.<br/>I build backend services, Telegram bots among them, and ship them to production.</i>
 </p>
 
-> *Backend developer from Russia focused on asynchronous Python. I design layered architectures, work with databases and ship projects all the way to production.*
+> *A backend developer from Russia, focused on asynchronous Python. I design layered architectures, work with databases, and see projects through to production.*
 >
-> *Two people pushed me to try programming in early 2026 — and that was enough. I learned the Python basics in a month, then kept adding something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe — my first real backend: layered architecture, PostgreSQL and Docker on my own VPS. It still runs there.*
+> *Two people pushed me to try programming in early 2026, and that was enough. I picked up the Python basics in a month, then kept learning something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe — my first real backend: layered architecture, PostgreSQL, and Docker on my own VPS. It still runs there today.*
 
 <p align="center"><sub><b>· quick facts ·</b></sub></p>
 
@@ -34,9 +34,9 @@
 | | |
 |:--:|:--:|
 | 🌱 **Learning** | FastAPI, Redis, algorithms & data structures |
-| 🤝 **Open to** | collaboration on backend projects |
+| 🤝 **Open to** | backend collaboration |
 | 🗓 **Coding since** | February 2026 — every single day |
-| 🎓 **Status** | 9th grade student, coding after school |
+| 🎓 **Status** | 9th-grade student, coding after school |
 | 🧠 **Focus** | clean architecture, async Python, production stability |
 
 </div>
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/github/license/blazevx-self/BlaZe-bot?style=flat-square&label=license&labelColor=161b22&color=0d1117" />
 </p>
 
-Multiplayer RPG bot set in the Tokyo Ghoul universe. Running in production on a VPS.
+A multiplayer RPG bot set in the Tokyo Ghoul universe, deployed and running on my own VPS.
 
 <p align="center">
   <img src="assets/pipeline.svg" width="92%" alt="routers → services → repositories → PostgreSQL" />
@@ -83,12 +83,12 @@ Multiplayer RPG bot set in the Tokyo Ghoul universe. Running in production on a 
 
 | Area | Details |
 |:---|:---|
-| 🏗 **Architecture** | ~280 modules · routers → services → repositories · Dependency Injection |
-| 🗄 **Data** | PostgreSQL · SQLAlchemy 2 async · Alembic migrations · JSONB timed effects |
-| 🎮 **Gameplay** | economy, character upgrades, daily bonus, quiz, Wordle, lottery with video rendering |
-| 💬 **Groups** | moderation (ban / mute / kick / warns), anti-spam, link filter, AI chat replies |
-| 🎬 **Media** | `/anime` clip & GIF cutting with ffmpeg, media library with `file_id` caching |
-| 🚀 **DevOps** | Docker Compose · VPS deployment · automatic DB backups · error notifications |
+| 🏗 **Architecture** | ~280 modules · routers → services → repositories · dependency injection |
+| 🗄 **Data** | PostgreSQL · async SQLAlchemy 2 · Alembic migrations · JSONB timed effects |
+| 🎮 **Gameplay** | economy, character upgrades, daily bonuses, quizzes, Wordle, and a lottery with video rendering |
+| 💬 **Groups** | moderation (ban, mute, kick, warns), anti-spam, link filtering, AI chat replies |
+| 🎬 **Media** | `/anime` clip and GIF cutting with FFmpeg, media library with `file_id` caching |
+| 🚀 **DevOps** | Docker Compose · VPS deployment · automatic database backups · error notifications |
 
 </details>
 
@@ -103,7 +103,7 @@ Multiplayer RPG bot set in the Tokyo Ghoul universe. Running in production on a 
   <img src="https://img.shields.io/github/license/blazevx-self/Self-Music-bot?style=flat-square&label=license&labelColor=161b22&color=0d1117" />
 </p>
 
-A practice-first project — built to gain real experience with external APIs and async pipelines, and because I used it myself. It grew slowly and unevenly, with plenty of rough edges and warnings along the way, but it stays an interesting implementation: search, melody recognition and mood playlists in Telegram.
+A practice-first project: built to gain hands-on experience with external APIs and async pipelines — and because I actually used it myself. It grew slowly and unevenly, with plenty of rough edges and warnings along the way, yet it remains an interesting implementation: search, melody recognition, and mood playlists in Telegram.
 
 <details>
 <summary><b>🔍 What's inside</b></summary>
@@ -112,14 +112,14 @@ A practice-first project — built to gain real experience with external APIs an
 
 | Area | Details |
 |:---|:---|
-| 🏗 **Architecture** | ~90 modules · routers → services → external APIs · middlewares for DB, logging, anti-spam and user sync |
-| 🔎 **Search** | Deezer API for metadata & covers · paginated results · track delivery via `yt-dlp` |
-| 🎙 **Recognition** | AudD API — voice messages, audio files and video, plus humming mode for sung melodies |
-| 🎬 **Media** | FFmpeg audio extraction from video · track cache to avoid re-downloading |
-| 📊 **Content** | Deezer new releases, genre charts, Russian top, mood playlists (road / chill / workout) |
-| 👤 **Accounts** | experimental public VK profiles section · per-user feature toggles in settings |
-| 🛡 **Guards** | channel subscription check · flood protection · double-click protection on inline buttons |
-| 🚀 **DevOps** | Docker Compose (bot + PostgreSQL 16 + PgAdmin) · Alembic migration container · pytest suite |
+| 🏗 **Architecture** | ~90 modules · routers → services → external APIs · middlewares for the database, logging, anti-spam, and user sync |
+| 🔎 **Search** | Deezer API for metadata and covers · paginated results · track delivery via `yt-dlp` |
+| 🎙 **Recognition** | AudD API — voice messages, audio files, and video, plus a humming mode for sung melodies |
+| 🎬 **Media** | FFmpeg audio extraction from video · a track cache to avoid re-downloads |
+| 📊 **Content** | Deezer new releases, genre charts, a Russian top, and mood playlists (road, chill, workout) |
+| 👤 **Accounts** | an experimental public VK profiles section · per-user feature toggles in settings |
+| 🛡 **Guards** | channel subscription check · flood protection · double-click protection for inline buttons |
+| 🚀 **DevOps** | Docker Compose (bot + PostgreSQL 16 + PgAdmin) · an Alembic migration container · a pytest suite |
 
 </details>
 
@@ -134,7 +134,7 @@ A practice-first project — built to gain real experience with external APIs an
 
 <p align="center">
   <b>It never lies to you</b> — <i>it runs exactly the way it's written,<br/>and the result depends only on you.</i><br/>
-  <sub>every bug is honest feedback, and every fix is entirely yours.</sub>
+  <sub>Every bug is honest feedback, and every fix is entirely yours.</sub>
 </p>
 
 <p align="center">
@@ -152,28 +152,24 @@ A practice-first project — built to gain real experience with external APIs an
 <h2 align="center"><code>{&nbsp;&nbsp;stats&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <img src="assets/current.svg" width="92%" alt="currently shipping: BlaZe-Desk" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blazevx-self&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazevx-self&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E" />
-</p>
-
-<p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=blazevx-self&hide_border=true&border_radius=10&background=0d1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=E6EDF3&sideNums=8B949E&dates=8B949E" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazevx-self&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E" />&nbsp;
+  <img height="165" src="https://streak-stats.demolab.com?user=blazevx-self&hide_border=true&border_radius=10&background=0d1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=E6EDF3&sideNums=8B949E&dates=8B949E" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blazevx-self&bg_color=0d1117&color=8b949e&line=e6edf3&point=8b949e&area=true&area_color=161b22&hide_border=true&radius=8" width="92%" alt="contribution activity" />
 </p>
 
+<p align="center">
+  <img src="assets/quote.svg" width="92%" alt="done means deployed" />
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center"><code>{&nbsp;&nbsp;goal&nbsp;&nbsp;}</code></h2>
 
-> ***Become a Middle Backend Developer, go deeper into system design
-> and build reliable production-level applications.***
+> ***Become a middle backend developer, go deeper into system design,
+> and build reliable production-grade applications.***
 
 <p align="center">
   <img src="assets/timeline.svg" width="92%" alt="FEB 2026 → 2027 timeline" />
@@ -189,12 +185,12 @@ A practice-first project — built to gain real experience with external APIs an
 - [x] Docker, Linux, VPS deployment
 - [x] First project deployed and running in production
 - [x] Second project: Self Music bot with external APIs (Deezer, AudD, yt-dlp)
-- [ ] BlaZe-Desk: channel control bot — draft posting, polls, anonymous messages, join requests, stats reports
+- [ ] BlaZe-Desk: a channel control bot — draft posting, polls, anonymous messages, join requests, and stats reports
 - [ ] Tests (pytest)
-- [ ] FastAPI & REST APIs
+- [ ] FastAPI and REST APIs
 - [ ] Redis
-- [ ] Team project: web app & messenger
-- [ ] Algorithms & data structures
+- [ ] Team project: a web app and a messenger
+- [ ] Algorithms and data structures
 
 </details>
 
