@@ -45,7 +45,9 @@
 
 <h2 align="center"><code>{&nbsp;&nbsp;profile&nbsp;&nbsp;}</code></h2>
 
-```python
+<p align="center"><sub><b>· me.py ·</b></sub></p>
+
+```text
 class Developer:
     def __init__(self):
         self.name = "BlaZe Self"
