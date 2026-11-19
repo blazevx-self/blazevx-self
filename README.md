@@ -1,5 +1,5 @@
 <a href="https://t.me/+H67pSJL-qYU5Y2Qy">
-  <img src="assets/blaze.png" width="100%" alt="BlaZe Self" />
+  <img src="assets/banner.png" width="100%" alt="BlaZe Self — code / bot / future" />
 </a>
 
 <p align="center">
