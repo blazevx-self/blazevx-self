@@ -147,6 +147,10 @@ A practice-first project: built to gain hands-on experience with external APIs a
 > - 🔁 **Migrations over manual SQL** — every schema change is versioned
 > - 🐢 **Slow and honest over fast and messy** — a rough working version today teaches more than a perfect plan tomorrow
 
+<p align="center">
+  <img src="assets/code.svg" width="92%" alt="typed results in practice" />
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center"><code>{&nbsp;&nbsp;stats&nbsp;&nbsp;}</code></h2>
@@ -158,10 +162,6 @@ A practice-first project: built to gain hands-on experience with external APIs a
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blazevx-self&bg_color=0d1117&color=8b949e&line=e6edf3&point=8b949e&area=true&area_color=161b22&hide_border=true&radius=8" width="92%" alt="contribution activity" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="92%" alt="done means deployed" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -203,7 +203,7 @@ A practice-first project: built to gain hands-on experience with external APIs a
   <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="assets/wave.svg" width="100%" alt="" />
 
 <p align="center">
   <code>C O D E&nbsp;&nbsp;/&nbsp;&nbsp;B O T&nbsp;&nbsp;/&nbsp;&nbsp;F U T U R E</code>

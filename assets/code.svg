@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="184" viewBox="0 0 860 184" role="presentation">
+  <!-- monochrome code window: typed results in practice -->
+  <rect x="1" y="1" width="858" height="182" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="858" height="36" rx="12" fill="#161b22"/>
+  <rect x="1" y="19" width="858" height="18" fill="#161b22"/>
+  <line x1="1" y1="37" x2="859" y2="37" stroke="#30363d"/>
+  <circle cx="26" cy="19" r="5" fill="#30363d"/>
+  <circle cx="46" cy="19" r="5" fill="#3d444d"/>
+  <circle cx="66" cy="19" r="5" fill="#484f58"/>
+  <text x="88" y="24" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">services/tracks.py</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <g fill="#484f58" text-anchor="end">
+      <text x="40" y="68">1</text>
+      <text x="40" y="92">2</text>
+      <text x="40" y="116">3</text>
+      <text x="40" y="140">4</text>
+      <text x="40" y="164">5</text>
+    </g>
+    <text x="56" y="68" xml:space="preserve"><tspan fill="#e6edf3" font-weight="600">async def </tspan><tspan fill="#c9d1d9">get_track(track_id: </tspan><tspan fill="#e6edf3">int</tspan><tspan fill="#c9d1d9">) -&gt; </tspan><tspan fill="#e6edf3">Result[Track]</tspan><tspan fill="#c9d1d9">:</tspan></text>
+    <text x="56" y="92" xml:space="preserve"><tspan fill="#c9d1d9">    track = </tspan><tspan fill="#e6edf3" font-weight="600">await </tspan><tspan fill="#c9d1d9">self.repo.get(track_id)</tspan></text>
+    <text x="56" y="116" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e6edf3" font-weight="600">if </tspan><tspan fill="#c9d1d9">track </tspan><tspan fill="#e6edf3" font-weight="600">is None</tspan><tspan fill="#c9d1d9">:</tspan></text>
+    <text x="56" y="140" xml:space="preserve"><tspan fill="#c9d1d9">        </tspan><tspan fill="#e6edf3" font-weight="600">return </tspan><tspan fill="#c9d1d9">Result.fail(</tspan><tspan fill="#8b949e">"track not found"</tspan><tspan fill="#c9d1d9">)</tspan></text>
+    <text x="56" y="164" xml:space="preserve"><tspan fill="#c9d1d9">    </tspan><tspan fill="#e6edf3" font-weight="600">return </tspan><tspan fill="#c9d1d9">Result.ok(track)</tspan></text>
+  </g>
+</svg>
