@@ -3,73 +3,56 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BlaZe+Self+%F0%9F%91%8B;Python+Backend+Developer;Async+%C2%B7+Clean+Architecture+%C2%B7+PostgreSQL;BlaZe+RPG+%C2%B7+Self+Music+%F0%9F%8E%A7;Building+bots+that+real+people+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BlaZe+Self+%F0%9F%91%8B;Python+Backend+Developer;Async+%C2%B7+Clean+Architecture+%C2%B7+PostgreSQL;Building+bots+that+real+people+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=ffffff" /></a>&nbsp;
-  <a href="mailto:dsdhdhdsdh@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://github.com/blazevx-self/BlaZe-bot"><img src="https://img.shields.io/badge/BlaZe-RPG_bot-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://github.com/blazevx-self/Self-Music-bot"><img src="https://img.shields.io/badge/Self_Music-music_bot-0d1117?style=for-the-badge&logo=youtubemusic&logoColor=ffffff" /></a>
+  <a href="mailto:dsdhdhdsdh@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/terminal.svg" width="92%" alt="whoami" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center"><code>{&nbsp;&nbsp;about&nbsp;&nbsp;}</code></h2>
 
-> ***Backend developer from Russia focused on asynchronous Python.
-> I design layered architectures, work with databases and ship
-> projects all the way to production — with real users, backups and monitoring.***
+<p align="center">
+  <b>👋 Hello! I'm BlaZe Self</b> — <i>Python backend developer from Russia.<br/>I build Telegram bots and ship them to production.</i>
+</p>
+
+> *Two people pushed me to try programming in early 2026 — and that was enough. I learned the Python basics in a month, then kept adding something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe: ~280 modules (routers → services → repositories + DI), PostgreSQL + SQLAlchemy + Alembic, Docker Compose on my own VPS, backups, group moderation, economy, quizzes and ffmpeg video cutting. It runs in production with real users.*
+>
+> *Now I'm building **Self Music** — a music search & playback bot: Deezer API for charts and metadata, yt-dlp for audio, file_id caching.*
 
 | | |
-|:-----------------|:------------------------------------------------------------------------------------------|
-| 🔭 **Working on**  | [BlaZe-Bot](https://github.com/blazevx-self/BlaZe-bot) — Telegram RPG bot in production    |
-| 🎧 **New project** | [Self Music](https://github.com/blazevx-self/Self-Music-bot) — music assistant in Telegram |
-| 🌱 **Learning**    | FastAPI, Redis, algorithms & data structures                                               |
-| 🤝 **Open to**     | collaboration on backend projects                                                          |
-| 🗓 **Coding since**| February 2026 — every single day                                                           |
-| 🎓 **Status**      | 9th grade student, coding after school                                                     |
-| 🧠 **Focus**       | clean architecture, async Python, production stability                                     |
-| 💡 **Motto**       | done means deployed                                                                        |
+|:------------------|:------------------------------------------------------|
+| 🌱 **Learning**     | FastAPI, Redis, TypeScript                             |
+| 🤝 **Open to**      | collaboration on backend projects                      |
+| 🗓 **Coding since** | February 2026 — every single day                       |
+| 🎓 **Status**       | 9th grade student, coding after school                 |
+| 🧠 **Focus**        | clean architecture, async Python, production stability |
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center"><code>{&nbsp;&nbsp;profile&nbsp;&nbsp;}</code></h2>
+<h2 align="center"><code>{&nbsp;&nbsp;stack&nbsp;&nbsp;}</code></h2>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "BlaZe Self"
-        self.role = "Python Backend Developer"
-        self.location = "Russia"
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" />
+</p>
 
-        self.stack = (
-            "Python", "aiogram", "SQLAlchemy",
-            "PostgreSQL", "Alembic", "Docker", "Linux",
-            "FFmpeg", "yt-dlp", "Deezer API", "AudD API",
-        )
-
-        self.likes = (
-            "Clean Architecture",
-            "Async Programming",
-            "Shipping to production",
-        )
-
-        self.currently_learning = (
-            "FastAPI",
-            "Redis",
-            "Algorithms",
-        )
-
-    @staticmethod
-    def goal() -> str:
-        return (
-            "Keep improving every day, become a strong "
-            "Middle Backend Developer and build scalable products."
-        )
-
-me = Developer()
-```
+<p align="center"><sub><b>next →</b></sub>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff" />&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ffffff" />
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -140,55 +123,11 @@ Personal music bot: finds tracks by name or artist, recognizes melodies from voi
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center"><code>{&nbsp;&nbsp;stack&nbsp;&nbsp;}</code></h2>
-
-<p align="center"><sub><b>language &amp; frameworks</b></sub></p>
+<h2 align="center"><code>{&nbsp;&nbsp;why&nbsp;code&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/asyncio-0d1117?style=flat-square&logo=python&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Pydantic-0d1117?style=flat-square&logo=pydantic&logoColor=ffffff" />
+  <b>It never lies to you</b> — <i>it runs exactly the way it's written,<br/>and the result depends only on you.</i>
 </p>
-
-<p align="center"><sub><b>data &amp; migrations</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Alembic-0d1117?style=flat-square&logo=databricks&logoColor=ffffff" />
-</p>
-
-<p align="center"><sub><b>media &amp; external APIs</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FFmpeg-0d1117?style=flat-square&logo=ffmpeg&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/yt_dlp-0d1117?style=flat-square&logo=youtube&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Deezer_API-0d1117?style=flat-square&logo=deezer&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/AudD_API-0d1117?style=flat-square&logo=shazam&logoColor=ffffff" />
-</p>
-
-<p align="center"><sub><b>ship &amp; run</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/pytest-0d1117?style=flat-square&logo=pytest&logoColor=ffffff" />
-</p>
-
-<p align="center"><sub><b>🌱 learning now</b></sub></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Algorithms%20%26%20DS-0d1117?style=flat-square" />
-</p>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-<h2 align="center"><code>{&nbsp;&nbsp;mindset&nbsp;&nbsp;}</code></h2>
 
 > [!TIP]
 > - 🧱 **Layers over spaghetti** — routers don't touch the database, services don't know about Telegram
@@ -201,12 +140,12 @@ Personal music bot: finds tracks by name or artist, recognizes melodies from voi
 <h2 align="center"><code>{&nbsp;&nbsp;stats&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blazevx-self&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E&icon_color=E6EDF3" />&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=blazevx-self&show_icons=true&include_all_commits=true&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E&icon_color=8B949E" />&nbsp;
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blazevx-self&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0d1117&title_color=E6EDF3&text_color=8B949E" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=blazevx-self&hide_border=true&border_radius=10&background=0d1117&ring=E6EDF3&fire=E6EDF3&currStreakLabel=E6EDF3&sideLabels=E6EDF3&sideNums=8B949E&dates=8B949E" />
+  <img height="150" src="https://streak-stats.demolab.com?user=blazevx-self&hide_border=true&border_radius=10&background=0d1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=E6EDF3&sideNums=8B949E&dates=8B949E" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -233,6 +172,17 @@ Personal music bot: finds tracks by name or artist, recognizes melodies from voi
 - [ ] Algorithms & data structures
 
 </details>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<h2 align="center"><code>{&nbsp;&nbsp;links&nbsp;&nbsp;}</code></h2>
+
+<p align="center">
+  <a href="https://t.me/blazevx_self"><img src="https://img.shields.io/badge/main__channel-@blazevx__self-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
+  <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
+  <a href="https://t.me/blaze_bot_chat"><img src="https://img.shields.io/badge/chat-@blaze__bot__chat-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
+  <a href="https://github.com/blazevx-self"><img src="https://img.shields.io/badge/github-blazevx--self-0d1117?style=flat-square&logo=github&logoColor=ffffff" /></a>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
