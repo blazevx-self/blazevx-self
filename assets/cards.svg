@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="132" viewBox="0 0 860 132" role="presentation">
+  <!-- monochrome three-card strip: design / build / ship -->
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <rect x="18"  y="16" width="256" height="100" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="300" y="16" width="256" height="100" rx="10" fill="#161b22" stroke="#30363d"/>
+    <rect x="582" y="16" width="256" height="100" rx="10" fill="#161b22" stroke="#30363d"/>
+
+    <circle cx="48"  cy="48" r="15" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="330" cy="48" r="15" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="612" cy="48" r="15" fill="#0d1117" stroke="#30363d"/>
+
+    <g fill="#e6edf3">
+      <rect x="40" y="42" width="16" height="3" rx="1.5"/>
+      <rect x="43" y="47" width="12" height="3" rx="1.5"/>
+      <rect x="46" y="52" width="8"  height="3" rx="1.5"/>
+    </g>
+    <text x="330" y="53" text-anchor="middle" fill="#e6edf3" font-family="ui-monospace, Menlo, monospace" font-size="13">{ }</text>
+    <g stroke="#e6edf3" stroke-width="1.6" fill="none">
+      <line x1="612" y1="55" x2="612" y2="43"/>
+      <polyline points="607,48 612,42 617,48"/>
+    </g>
+
+    <text x="74"  y="44" fill="#e6edf3" font-size="15" font-weight="600">design</text>
+    <text x="356" y="44" fill="#e6edf3" font-size="15" font-weight="600">build</text>
+    <text x="638" y="44" fill="#e6edf3" font-size="15" font-weight="600">ship</text>
+
+    <g fill="#8b949e" font-size="11.5">
+      <text x="34" y="72">layered architecture</text>
+      <text x="34" y="88">routers → services → repositories</text>
+      <text x="34" y="104">typed results over dicts</text>
+
+      <text x="316" y="72">async Python &amp; aiogram</text>
+      <text x="316" y="88">SQLAlchemy + Alembic migrations</text>
+      <text x="316" y="104">clean commits, real tests</text>
+
+      <text x="598" y="72">Docker Compose on my own VPS</text>
+      <text x="598" y="88">backups, monitoring, notifications</text>
+      <text x="598" y="104">done means deployed</text>
+    </g>
+  </g>
+</svg>

@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BlaZe+Self+%F0%9F%91%8B;Python+Backend+Developer;Async+%C2%B7+Clean+Architecture+%C2%B7+PostgreSQL;Building+bots+that+real+people+use" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BlaZe+Self+%F0%9F%91%8B;Python+Backend+Developer;Async+%C2%B7+Clean+Architecture+%C2%B7+PostgreSQL;Building+backend+that+real+people+use" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,16 +20,16 @@
 <h2 align="center"><code>{&nbsp;&nbsp;about&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <b>👋 Hello! I'm BlaZe Self</b> — <i>Python backend developer from Russia.<br/>I build Telegram bots and ship them to production.</i>
+  <b>👋 Hello! I'm BlaZe Self</b> — <i>Python backend developer from Russia.<br/>I build backend services — Telegram bots among them — and ship them to production.</i>
 </p>
 
-> *Two people pushed me to try programming in early 2026 — and that was enough. I learned the Python basics in a month, then kept adding something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe: ~280 modules (routers → services → repositories + DI), PostgreSQL + SQLAlchemy + Alembic, Docker Compose on my own VPS, backups, group moderation, economy, quizzes and ffmpeg video cutting. It runs in production with real users.*
+> *Backend developer from Russia focused on asynchronous Python. I design layered architectures, work with databases and ship projects all the way to production — with real users, backups and monitoring.*
 >
-> *Now I'm building **Self Music** — a music search & playback bot: Deezer API for charts and metadata, yt-dlp for audio, file_id caching.*
+> *Two people pushed me to try programming in early 2026 — and that was enough. I learned the Python basics in a month, then kept adding something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe: ~280 modules (routers → services → repositories + DI), PostgreSQL + SQLAlchemy + Alembic, Docker Compose on my own VPS, backups, group moderation, economy, quizzes and ffmpeg video cutting. It runs in production with real users.*
 
 | | |
 |:------------------|:------------------------------------------------------|
-| 🌱 **Learning**     | FastAPI, Redis, TypeScript                             |
+| 🌱 **Learning**     | FastAPI, Redis, algorithms & data structures           |
 | 🤝 **Open to**      | collaboration on backend projects                      |
 | 🗓 **Coding since** | February 2026 — every single day                       |
 | 🎓 **Status**       | 9th grade student, coding after school                 |
@@ -39,19 +39,16 @@
 
 <h2 align="center"><code>{&nbsp;&nbsp;stack&nbsp;&nbsp;}</code></h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" />
-</p>
+<div align="center">
+
+| <sub>core</sub> | <sub>data</sub> | <sub>infra</sub> |
+|:--:|:--:|:--:|
+| <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" /> |
+
+</div>
 
 <p align="center"><sub><b>next →</b></sub>&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff" />&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff" />
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -61,13 +58,17 @@
 ### 🩸 [BlaZe — Telegram RPG bot](https://github.com/blazevx-self/BlaZe-bot)
 
 <p>
+  <img src="https://img.shields.io/badge/status-in__production-0d1117?style=flat-square&logoColor=ffffff" />&nbsp;
   <a href="https://github.com/blazevx-self/BlaZe-bot/stargazers"><img src="https://img.shields.io/github/stars/blazevx-self/BlaZe-bot?style=flat-square&logo=github&logoColor=ffffff&label=stars&labelColor=161b22&color=0d1117" /></a>&nbsp;
   <a href="https://github.com/blazevx-self/BlaZe-bot/commits"><img src="https://img.shields.io/github/last-commit/blazevx-self/BlaZe-bot?style=flat-square&label=last%20commit&labelColor=161b22&color=0d1117" /></a>&nbsp;
-  <img src="https://img.shields.io/github/languages/top/blazevx-self/BlaZe-bot?style=flat-square&logo=python&logoColor=ffffff&label=%20&labelColor=161b22&color=0d1117" />&nbsp;
   <img src="https://img.shields.io/github/license/blazevx-self/BlaZe-bot?style=flat-square&label=license&labelColor=161b22&color=0d1117" />
 </p>
 
 Multiplayer RPG bot set in the Tokyo Ghoul universe. Running in production on a VPS.
+
+<p align="center">
+  <img src="assets/pipeline.svg" width="92%" alt="routers → services → repositories → PostgreSQL" />
+</p>
 
 <details>
 <summary><b>🔍 What's inside</b></summary>
@@ -90,13 +91,13 @@ Multiplayer RPG bot set in the Tokyo Ghoul universe. Running in production on a 
 ### 🎧 [Self Music — Telegram music assistant](https://github.com/blazevx-self/Self-Music-bot)
 
 <p>
+  <img src="https://img.shields.io/badge/status-completed-0d1117?style=flat-square&logoColor=ffffff" />&nbsp;
   <a href="https://github.com/blazevx-self/Self-Music-bot/stargazers"><img src="https://img.shields.io/github/stars/blazevx-self/Self-Music-bot?style=flat-square&logo=github&logoColor=ffffff&label=stars&labelColor=161b22&color=0d1117" /></a>&nbsp;
   <a href="https://github.com/blazevx-self/Self-Music-bot/commits"><img src="https://img.shields.io/github/last-commit/blazevx-self/Self-Music-bot?style=flat-square&label=last%20commit&labelColor=161b22&color=0d1117" /></a>&nbsp;
-  <img src="https://img.shields.io/github/languages/top/blazevx-self/Self-Music-bot?style=flat-square&logo=python&logoColor=ffffff&label=%20&labelColor=161b22&color=0d1117" />&nbsp;
   <img src="https://img.shields.io/github/license/blazevx-self/Self-Music-bot?style=flat-square&label=license&labelColor=161b22&color=0d1117" />
 </p>
 
-Personal music bot: finds tracks by name or artist, recognizes melodies from voice, audio and video, and serves charts and mood-based playlists right in the chat. In active development — [@selfmusical_bot](https://t.me/selfmusical_bot).
+Personal music assistant: finds tracks by name or artist, recognizes melodies from voice, audio and video, and serves charts and mood-based playlists right in the chat. Completed and live — [@selfmusical_bot](https://t.me/selfmusical_bot).
 
 <details>
 <summary><b>🔍 What's inside</b></summary>
@@ -126,7 +127,12 @@ Personal music bot: finds tracks by name or artist, recognizes melodies from voi
 <h2 align="center"><code>{&nbsp;&nbsp;why&nbsp;code&nbsp;&nbsp;}</code></h2>
 
 <p align="center">
-  <b>It never lies to you</b> — <i>it runs exactly the way it's written,<br/>and the result depends only on you.</i>
+  <b>It never lies to you</b> — <i>it runs exactly the way it's written,<br/>and the result depends only on you.</i><br/>
+  <sub>every bug is honest feedback, and every fix is entirely yours.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/cards.svg" width="92%" alt="design · build · ship" />
 </p>
 
 > [!TIP]
@@ -179,9 +185,7 @@ Personal music bot: finds tracks by name or artist, recognizes melodies from voi
 
 <p align="center">
   <a href="https://t.me/blazevx_self"><img src="https://img.shields.io/badge/main__channel-@blazevx__self-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://t.me/blaze_bot_chat"><img src="https://img.shields.io/badge/chat-@blaze__bot__chat-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://github.com/blazevx-self"><img src="https://img.shields.io/badge/github-blazevx--self-0d1117?style=flat-square&logo=github&logoColor=ffffff" /></a>
+  <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
