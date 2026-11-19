@@ -33,8 +33,8 @@
       <text x="316" y="88">SQLAlchemy + Alembic migrations</text>
       <text x="316" y="104">clean commits, real tests</text>
 
-      <text x="598" y="72">Docker Compose on my own VPS</text>
-      <text x="598" y="88">backups, monitoring, notifications</text>
+      <text x="598" y="72">containerized deploys</text>
+      <text x="598" y="88">maintained after release</text>
       <text x="598" y="104">done means deployed</text>
     </g>
   </g>

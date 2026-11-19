@@ -12,7 +12,7 @@
   <text x="26" y="70"  fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ whoami</text>
   <text x="26" y="96"  fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">BlaZe Self — python backend developer · Russia</text>
   <text x="26" y="122" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ cat status.log</text>
-  <text x="26" y="148" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">shipping backend &amp; bots to production — real users, backups, monitoring</text>
+  <text x="26" y="148" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">backend &amp; bots: written, deployed, running</text>
   <text x="26" y="174" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ echo $MOTTO</text>
   <text x="26" y="200" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">done means deployed</text>
   <rect x="192" y="188" width="9" height="15" fill="#e6edf3" opacity="0.75"/>
