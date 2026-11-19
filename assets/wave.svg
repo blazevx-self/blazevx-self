@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="90" viewBox="0 0 860 90" role="presentation">
+  <!-- monochrome layered closing wave -->
+  <path d="M0,58 C120,38 240,78 360,58 C480,38 600,78 720,58 C780,48 820,53 860,58 L860,90 L0,90 Z" fill="#161b22"/>
+  <path d="M0,68 C140,53 260,83 400,68 C540,53 660,83 860,68 L860,90 L0,90 Z" fill="#1c2128" opacity="0.85"/>
+  <path d="M0,78 C200,68 400,86 600,76 C720,70 800,82 860,78 L860,90 L0,90 Z" fill="#21262d" opacity="0.9"/>
+</svg>

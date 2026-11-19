@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="214" viewBox="0 0 860 214" role="presentation">
+  <!-- monochrome terminal card: whoami -->
+  <rect x="1" y="1" width="858" height="212" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="858" height="36" rx="12" fill="#161b22"/>
+  <rect x="1" y="19" width="858" height="18" fill="#161b22"/>
+  <line x1="1" y1="37" x2="859" y2="37" stroke="#30363d"/>
+  <circle cx="26" cy="19" r="5" fill="#30363d"/>
+  <circle cx="46" cy="19" r="5" fill="#3d444d"/>
+  <circle cx="66" cy="19" r="5" fill="#484f58"/>
+  <text x="88" y="24" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">blaze@vps: ~</text>
+
+  <text x="26" y="70"  fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ whoami</text>
+  <text x="26" y="96"  fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">BlaZe Self — python backend developer · Russia</text>
+  <text x="26" y="122" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ cat status.log</text>
+  <text x="26" y="148" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">backend &amp; bots: written, deployed, running</text>
+  <text x="26" y="174" fill="#8b949e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">$ echo $MOTTO</text>
+  <text x="26" y="200" fill="#e6edf3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">done means deployed</text>
+  <rect x="192" y="188" width="9" height="15" fill="#e6edf3" opacity="0.75"/>
+</svg>
