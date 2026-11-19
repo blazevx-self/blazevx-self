@@ -187,7 +187,7 @@ A practice-first project — built to gain real experience with external APIs an
 - [x] Python basics → async → aiogram
 - [x] PostgreSQL, SQLAlchemy, Alembic
 - [x] Docker, Linux, VPS deployment
-- [x] Production bot with real users
+- [x] First project deployed and running in production
 - [x] Second project: Self Music bot with external APIs (Deezer, AudD, yt-dlp)
 - [ ] BlaZe-Desk: channel control bot — draft posting, polls, anonymous messages, join requests, stats reports
 - [ ] Tests (pytest)
