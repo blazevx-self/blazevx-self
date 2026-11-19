@@ -27,13 +27,19 @@
 >
 > *Two people pushed me to try programming in early 2026 — and that was enough. I learned the Python basics in a month, then kept adding something new every day until I took on my first big project. It grew into **BlaZe**, a Telegram RPG bot set in the Tokyo Ghoul universe: ~280 modules (routers → services → repositories + DI), PostgreSQL + SQLAlchemy + Alembic, Docker Compose on my own VPS, backups, group moderation, economy, quizzes and ffmpeg video cutting. It runs in production with real users.*
 
+<p align="center"><sub><b>· quick facts ·</b></sub></p>
+
+<div align="center">
+
 | | |
-|:------------------|:------------------------------------------------------|
-| 🌱 **Learning**     | FastAPI, Redis, algorithms & data structures           |
-| 🤝 **Open to**      | collaboration on backend projects                      |
-| 🗓 **Coding since** | February 2026 — every single day                       |
-| 🎓 **Status**       | 9th grade student, coding after school                 |
-| 🧠 **Focus**        | clean architecture, async Python, production stability |
+|:--:|:--:|
+| 🌱 **Learning** | FastAPI, Redis, algorithms & data structures |
+| 🤝 **Open to** | collaboration on backend projects |
+| 🗓 **Coding since** | February 2026 — every single day |
+| 🎓 **Status** | 9th grade student, coding after school |
+| 🧠 **Focus** | clean architecture, async Python, production stability |
+
+</div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -43,7 +49,7 @@
 
 | <sub>core</sub> | <sub>data</sub> | <sub>infra</sub> |
 |:--:|:--:|:--:|
-| <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" /> |
+| <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/aiogram_3-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=flat-square&logo=sqlalchemy&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff" /> | <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=ffffff" /><br><img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=ffffff" /> |
 
 </div>
 
@@ -154,12 +160,20 @@ Personal music assistant: finds tracks by name or artist, recognizes melodies fr
   <img height="150" src="https://streak-stats.demolab.com?user=blazevx-self&hide_border=true&border_radius=10&background=0d1117&ring=8B949E&fire=8B949E&currStreakLabel=E6EDF3&sideLabels=E6EDF3&sideNums=8B949E&dates=8B949E" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blazevx-self&bg_color=0d1117&color=8b949e&line=e6edf3&point=8b949e&area=true&area_color=161b22&hide_border=true&radius=8" width="92%" alt="contribution activity" />
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <h2 align="center"><code>{&nbsp;&nbsp;goal&nbsp;&nbsp;}</code></h2>
 
 > ***Become a Middle Backend Developer, go deeper into system design
 > and build reliable production-level applications.***
+
+<p align="center">
+  <img src="assets/timeline.svg" width="92%" alt="FEB 2026 → 2027 timeline" />
+</p>
 
 <details>
 <summary><b>🗺 Roadmap</b></summary>

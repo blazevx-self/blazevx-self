@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="112" viewBox="0 0 860 112" role="presentation">
+  <!-- monochrome journey timeline: past solid, future dashed -->
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif">
+    <line x1="90" y1="56" x2="570" y2="56" stroke="#8b949e" stroke-width="2"/>
+    <line x1="570" y1="56" x2="790" y2="56" stroke="#30363d" stroke-width="2" stroke-dasharray="6 6"/>
+
+    <circle cx="90"  cy="56" r="6" fill="#e6edf3"/>
+    <circle cx="330" cy="56" r="6" fill="#e6edf3"/>
+    <circle cx="570" cy="56" r="6" fill="#e6edf3"/>
+    <circle cx="790" cy="56" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2"/>
+
+    <g fill="#e6edf3" font-family="ui-monospace, Menlo, monospace" font-size="12" text-anchor="middle">
+      <text x="90"  y="32">FEB 2026</text>
+      <text x="330" y="32">2026</text>
+      <text x="570" y="32">NOV 2026</text>
+      <text x="790" y="32">2027</text>
+    </g>
+
+    <g fill="#8b949e" font-size="11" text-anchor="middle">
+      <text x="90"  y="82">first python lines</text>
+      <text x="90"  y="98">basics in a month</text>
+      <text x="330" y="82">BlaZe in production</text>
+      <text x="330" y="98">real users on my VPS</text>
+      <text x="570" y="82">Self Music completed</text>
+      <text x="570" y="98">music assistant shipped</text>
+      <text x="790" y="82">web app &amp; messenger</text>
+      <text x="790" y="98">team project</text>
+    </g>
+  </g>
+</svg>
