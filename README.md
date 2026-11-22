@@ -43,6 +43,20 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
+<h2 align="center"><code>{&nbsp;&nbsp;recognition&nbsp;&nbsp;}</code></h2>
+
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/blazevx-self">
+    <img src="https://hub.xerj.org/contributors/blazevx-self/badge.svg" alt="XERJ Corpus Hub contributor" />
+  </a>
+</p>
+
+<p align="center">
+  <i>My Self-Music-bot repository is included in the XERJ Corpus Hub — a searchable code corpus for AI coding agents.</i>
+</p>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <h2 align="center"><code>{&nbsp;&nbsp;profile&nbsp;&nbsp;}</code></h2>
 
 <p align="center"><sub><b>· me.py ·</b></sub></p>
