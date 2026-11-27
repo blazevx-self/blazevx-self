@@ -1,0 +1,3 @@
+# keep binary assets out of diffs and language stats
+assets/*.png binary
+assets/*.svg linguist-generated
