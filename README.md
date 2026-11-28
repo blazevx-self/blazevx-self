@@ -251,7 +251,8 @@ A practice-first project: built to gain hands-on experience with external APIs a
 
 <p align="center">
   <a href="https://t.me/blazevx_self"><img src="https://img.shields.io/badge/main__channel-@blazevx__self-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
-  <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>
+  <a href="https://t.me/blazevx"><img src="https://img.shields.io/badge/contact__me-@blazevx-0d1117?style=flat-square&logo=telegram&logoColor=ffffff" /></a>&nbsp;
+  <a href="https://hub.xerj.org/contributors/blazevx-self"><img src="https://img.shields.io/badge/XERJ_Corpus_Hub-contributor-0d1117?style=flat-square&logoColor=ffffff" /></a>
 </p>
 
 <img src="assets/wave.svg" width="100%" alt="" />
